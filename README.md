@@ -101,6 +101,6 @@ api_key = "YOUR_API_KEY"
 ---
 
 👨‍💻 Author
-Bardia Javadi
-📧 bardia.javadi.dev@gmail.com
-🌐 GitHub: @bardiw
+ Bardia Javadi   
+ 📧 bardia.javadi.dev@gmail.com   
+ 🌐 GitHub: @bardiw
